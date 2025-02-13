@@ -9,6 +9,7 @@ export class GetAlarmQueryHandler
 {
   constructor(private readonly alarmRepository: AlarmRepository) {}
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   async execute(query: GetAlarmQuery): Promise<Alarm[]> {
     return this.alarmRepository.findAll();
   }

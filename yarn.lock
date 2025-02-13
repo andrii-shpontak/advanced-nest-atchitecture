@@ -697,6 +697,11 @@
     path-to-regexp "3.3.0"
     tslib "2.8.1"
 
+"@nestjs/cqrs@^11.0.2":
+  version "11.0.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/cqrs/-/cqrs-11.0.2.tgz#f28f434053a24f1723c1f6209ef08904a2505efc"
+  integrity sha512-5gM78jtNkuXvcwPzR6jTFbaskFpmZzKZNxzQdICOOrsAnF7iiPxy0sAHLj885PRrU1FWVD3RC2qZsHqFfoe3/Q==
+
 "@nestjs/mapped-types@*":
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-2.0.6.tgz#d2d8523709fd5d872a9b9e0c38162746e2a7f44e"
